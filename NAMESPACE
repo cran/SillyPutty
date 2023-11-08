@@ -1,0 +1,21 @@
+#stats##
+### NAMESPACE
+###
+import(methods)
+importFrom("graphics", "par", "plot")
+importFrom("stats", "hclust", "cutree")
+importFrom("cluster", "silhouette")
+importFrom("Thresher", "remap")
+importFrom("oompaBase", "cyanyellow")
+importMethodsFrom("oompaBase", "plot", "summary")
+importFrom("Polychrome", "palette36.colors", "sortByHue",
+           "dark.colors", "light.colors", "colorNames")
+
+exportClasses("SillyPutty")
+export("SillyPutty")
+
+exportClasses("RandomSillyPutty")
+export("RandomSillyPutty")
+exportMethods("plot", "summary")
+
+export("findClusterNumber")

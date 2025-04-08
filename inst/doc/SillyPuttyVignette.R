@@ -90,10 +90,10 @@ dis <- dist(tdis)   ## This step is the rate-liomiting factor. Only way to speed
 names(labels) <- rownames(tdis)
 
 ## ----eval=FALSE, echo=FALSE, results='hide'---------------------------------------------------
-#  dataset <- tdis
-#  eucdist <- dis
-#  trueGroups <- labels
-#  save(eucdist, trueGroups, file="../data/eucdist.rda")
+# dataset <- tdis
+# eucdist <- dis
+# trueGroups <- labels
+# save(eucdist, trueGroups, file="../data/eucdist.rda")
 
 ## ----mercViews--------------------------------------------------------------------------------
 mercViews <- function(object, main, tag = NULL) {

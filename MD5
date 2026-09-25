@@ -1,4 +1,4 @@
-cdce6ae63609a2124ce54bc382263cc6 *DESCRIPTION
+8b5378c9800d47886c013224a44c415a *DESCRIPTION
 8992b96f45fb2fceb5a2ad7e12f4cf83 *NAMESPACE
 c9895df3021a0c4a9fc5ac4de95a4cc2 *NEWS
 32104d9b936cb627457c91c9cc250416 *R/01-silly.R
@@ -8,12 +8,12 @@ caa4be79cea24f55c37d83019a7741a8 *TODO
 b983439fee0fddc7fd95b3dc2bf7759d *build/vignette.rds
 70af554ee31b059b7925ff277bee455a *data/eucdist.rda
 58c679ecaff6cab8ecad1793d548b0e9 *inst/doc/SillyPuttyVignette.R
-2e1cc09ee9f0f49386d6e4d1262fcd2f *inst/doc/SillyPuttyVignette.Rmd
-5f8b5cd4e5a7999fdc446d5c09f8374c *inst/doc/SillyPuttyVignette.html
+134fd6593ba0c4a4eba44edbc82a07ac *inst/doc/SillyPuttyVignette.Rmd
+00a8337ecb4fd7edc2cf1b7d65d4ab8a *inst/doc/SillyPuttyVignette.html
 c95002d2b6597ba087090a3b27e4f488 *man/01-SillyPutty.Rd
 034f781bb86cd8810274847c2e3384c6 *man/02-RandomSillyPutty.Rd
 24a758550a42bcb8af44c6ce9bbc1f15 *man/03-findClusteNumber.Rd
 1fd4dc42a6c7a220430b36165aa9c7d7 *man/04-eucdist.Rd
 554f13d810ba21c06968acb58208fcb6 *man/05-HCSP.Rd
 894c7b7ed5ce9f3d659f7db1ae782d61 *tests/test-01-sp.R
-2e1cc09ee9f0f49386d6e4d1262fcd2f *vignettes/SillyPuttyVignette.Rmd
+134fd6593ba0c4a4eba44edbc82a07ac *vignettes/SillyPuttyVignette.Rmd

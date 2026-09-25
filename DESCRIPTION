@@ -1,5 +1,5 @@
 Package: SillyPutty
-Version: 0.4.3
+Version: 0.4.4
 Date: 2026-09-25
 Title: Silly Putty Clustering
 Authors@R: c(person(given = "Dwayne", family = "Tally", role = "aut"),
@@ -16,9 +16,9 @@ License: Apache License (== 2.0)
 biocViews: Clustering
 URL: http://silicovore.com/OOMPA/thresher.html
 NeedsCompilation: no
-Packaged: 2026-09-25 12:46:01 UTC; KRC
+Packaged: 2026-09-25 14:02:07 UTC; KRC
 Author: Dwayne Tally [aut],
   Kevin R. Coombes [aut, cre]
 Maintainer: Kevin R. Coombes <krc@silicovore.com>
 Repository: CRAN
-Date/Publication: 2026-09-25 13:40:02 UTC
+Date/Publication: 2026-09-25 14:50:08 UTC

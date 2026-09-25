@@ -1,3 +1,4 @@
+---
 title: "Introduction to Silly Putty"
 author: "Dwayne Tally, Zachary B. Abrams, and Kevin R. Coombes"
 date: "`r Sys.Date()`"

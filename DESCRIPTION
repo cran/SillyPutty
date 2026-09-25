@@ -1,6 +1,6 @@
 Package: SillyPutty
-Version: 0.4.2
-Date: 2025-04-07
+Version: 0.4.3
+Date: 2026-09-25
 Title: Silly Putty Clustering
 Authors@R: c(person(given = "Dwayne", family = "Tally", role = "aut"),
 	    person(given = c("Kevin", "R."), family = "Coombes",
@@ -14,11 +14,11 @@ Suggests: knitr, rmarkdown, Mercator, Umpire, mclust
 VignetteBuilder: knitr
 License: Apache License (== 2.0)
 biocViews: Clustering
-URL: http://oompa.r-forge.r-project.org/
+URL: http://silicovore.com/OOMPA/thresher.html
 NeedsCompilation: no
-Packaged: 2025-04-08 00:59:11 UTC; kevin
+Packaged: 2026-09-25 12:46:01 UTC; KRC
 Author: Dwayne Tally [aut],
   Kevin R. Coombes [aut, cre]
 Maintainer: Kevin R. Coombes <krc@silicovore.com>
 Repository: CRAN
-Date/Publication: 2025-04-08 12:40:06 UTC
+Date/Publication: 2026-09-25 13:40:02 UTC
